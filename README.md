@@ -5,7 +5,7 @@
 ```shell
 cd shelly
 chmod +x assembly.sh
-./assembly.sh shellcode
+./assembly.sh exploit.nasm
 ```
 
 ## Analysis
